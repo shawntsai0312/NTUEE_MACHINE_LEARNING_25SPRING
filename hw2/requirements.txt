@@ -1,0 +1,15 @@
+torch
+ninja
+dataclasses_json==0.6.4
+shutup==0.2.0
+llama-cpp-python==0.3.4 --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu123
+gdown
+humanize
+pandas
+optree==0.13.0
+numpy
+scikit-learn
+xgboost
+matplotlib
+lightgbm
+psutil
