@@ -1,0 +1,6 @@
+datasets==3.3.2
+numpy
+torch
+tqdm
+transformers
+ipykernel
