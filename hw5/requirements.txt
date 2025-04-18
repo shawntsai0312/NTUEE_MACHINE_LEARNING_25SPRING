@@ -1,0 +1,17 @@
+bitsandbytes
+accelerate
+xformers==0.0.29
+peft
+trl
+triton
+cut_cross_entropy
+sentencepiece
+protobuf
+datasets
+huggingface_hub
+hf_transfer
+unsloth==2025.2.15
+unsloth_zoo==2025.2.7
+transformers==4.49.0
+torch
+tf-keras
