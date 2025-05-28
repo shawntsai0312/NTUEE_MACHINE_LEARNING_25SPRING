@@ -1,0 +1,9 @@
+datasets>=2.0.0
+trl>=0.4.0
+bitsandbytes>=0.39.0
+transformers>=4.30.0
+torch>=2.0.0
+peft>=0.4.0
+tqdm>=4.65.0
+huggingface_hub>=0.16.0
+git+https://github.com/huggingface/accelerate

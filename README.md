@@ -9,3 +9,15 @@
 ## HW3 Understanding transformers
 
 ## HW4 Training Transformer
+
+## HW5 Finetuning Is Powerful
+
+## HW6 Fine-tuning leads to Forgetting
+
+## HW7 RLHF
+
+## HW8 Model Editing
+
+## HW9 Model Merging
+
+## HW10 Diffusion

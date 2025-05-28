@@ -1,0 +1,9 @@
+accelerate
+numpy
+safetensors
+torch
+torchvision
+transformers
+Pillow
+tqdm
+diffusers
