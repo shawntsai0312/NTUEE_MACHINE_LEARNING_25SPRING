@@ -2,6 +2,10 @@
 
 ##### authour: B10901176 蔡弘祥
 
+## Course Site
+
+[link](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)
+
 ## HW1 Retrieval Augmented Generation with Agentic System
 
 ## HW2 AI Agent As a Data Scientist
